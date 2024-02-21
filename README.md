@@ -1,1 +1,2 @@
-# Este código é um modelo de regressão linear que prevê os preços de automóveis com base em uma lista de cerca de 4.000 automóveis
+# predicao-veiculos
+Using a dataset available in the Kaggle generated for machine learning training, using a Linear regression technique, which makes the course on real car prices based on a set of mechanical characteristics.
